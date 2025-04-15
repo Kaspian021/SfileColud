@@ -1,0 +1,25 @@
+2025-04-14 13:02:11,146 - INFO - This is a test log message with UTF-8 characters: üöäç
+2025-04-14 13:02:11,204 - ERROR - Error loading assets: name 'ImageFont' is not defined
+2025-04-14 13:02:11,205 - ERROR - Application error: name 'ImageFont' is not defined
+2025-04-14 13:05:28,982 - INFO - This is a test log message with UTF-8 characters: üöäç
+2025-04-14 13:05:29,126 - WARNING - Image not found: A:\python_hacker\App_sendfile\assets/bg_pattern.png
+2025-04-14 13:05:29,126 - ERROR - Application error: 'AppAssets' object has no attribute 'setup_clipboard_actions'
+2025-04-14 13:17:11,661 - INFO - This is a test log message with UTF-8 characters: üöäç
+2025-04-14 13:17:11,822 - ERROR - Application error: name 'LanguageManager' is not defined
+2025-04-14 13:19:25,919 - INFO - This is a test log message with UTF-8 characters: üöäç
+2025-04-14 13:19:26,078 - WARNING - Translation files not found, using fallback
+2025-04-14 13:19:26,078 - ERROR - Application error: 'EnhancedLanguageManager' object has no attribute 'create_persian_fallback'
+2025-04-14 13:19:30,918 - INFO - This is a test log message with UTF-8 characters: üöäç
+2025-04-14 13:19:31,077 - WARNING - Translation files not found, using fallback
+2025-04-14 13:19:31,077 - ERROR - Application error: 'EnhancedLanguageManager' object has no attribute 'create_persian_fallback'
+2025-04-14 13:22:58,088 - INFO - This is a test log message with UTF-8 characters: üöäç
+2025-04-14 13:22:58,249 - WARNING - Translation files not found, using fallback
+2025-04-14 13:22:58,249 - ERROR - Application error: 'EnhancedLanguageManager' object has no attribute 'gettext'
+2025-04-14 13:27:20,782 - INFO - This is a test log message with UTF-8 characters: üöäç
+2025-04-14 13:27:20,982 - ERROR - Application error: name 'gettext' is not defined
+2025-04-14 13:38:29,190 - INFO - This is a test log message with UTF-8 characters: üöäç
+2025-04-14 13:38:29,355 - WARNING - Translation files not found, using fallback
+2025-04-14 13:38:29,355 - ERROR - Application error: 'EnhancedLanguageManager' object has no attribute 'gettext'
+2025-04-14 21:36:01,355 - INFO - This is a test log message with UTF-8 characters: üöäç
+2025-04-14 21:36:01,835 - WARNING - Translation files not found, using fallback
+2025-04-14 21:36:01,835 - ERROR - Application error: 'EnhancedLanguageManager' object has no attribute 'gettext'
